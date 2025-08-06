@@ -1,5 +1,5 @@
-tensorflow==2.15.0
-python==3.11
+tensorflow
+python
 pandas
 numpy
 scikit-learn
@@ -7,5 +7,6 @@ tensorboard
 matplotlib
 
 streamlit
+
 
 
